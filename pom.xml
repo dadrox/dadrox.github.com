@@ -1,10 +1,10 @@
 <distributionManagement>
     <repository>
         <id>releases</id>
-        <url>https://github.com/dadrox/repositories/raw/master/releases</url>
+        <url>https://github.com/dadrox/raw/master/repositories/releases</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
-        <url>https://github.com/dadrox/repositories/raw/master/snapshots</url>
+        <url>https://github.com/dadrox/raw/master/repositories/snapshots</url>
     </snapshotRepository>
 </distributionManagement>
